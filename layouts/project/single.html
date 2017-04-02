@@ -1,0 +1,68 @@
+{{ partial "head" . }}
+<div class="container p-a-0">
+  <div class="row m-l-0 m-r-0">
+    <div class="col-xs-12 col-md-8 post-container">
+      <div class="card card-block">
+          <h1 class="card-title">{{ if .IsPage }}{{ if .Draft }}{{ .Site.Data.Strings.draft }} :: {{ end }}{{ end }}{{ .Title }}</h1>
+          <div class="card-text">
+            {{ .Content }}
+          </div>
+      </div>
+    </div>
+      <div class="col-xs-12 col-md-4">
+        <div class="card card-block">
+          <h4 class="card-title">Collega's</h4>
+          <div class="card-text">
+            {{ if isset .Params "werknemers" }}
+                {{ $werknemersLen := len .Params.werknemers }}
+                {{ if gt $werknemersLen 0 }}
+                  <ul class="werknemers">
+                    {{ range $k, $v := .Params.werknemers }}
+                    <li><a class="project-werknemer-link" href="{{ $.Site.BaseURL }}werknemers/{{ . | urlize | lower }}"><i class="fa fa-user"></i> {{ . }}</a></li>
+                    {{ end }}
+                  </ul>
+                {{ else }}
+                  <p>Onbekend</p>
+                {{ end }}
+              {{ end }}
+          </div>
+        </div>
+
+        <div class="card card-block">
+          <h4 class="card-title">Klanten</h4>
+          <div class="card-text">
+            {{ if isset .Params "klanten" }}
+                {{ $klantenLen := len .Params.klanten }}
+                {{ if gt $klantenLen 0 }}
+                  <ul class="klanten">
+                    {{ range $k, $v := .Params.klanten }}
+                    <li><a class="project-klanten-link" href="{{ $.Site.BaseURL }}klanten/{{ . | urlize | lower }}"><i class="fa fa-building"></i> {{ . }}</a></li>
+                    {{ end }}
+                  </ul>
+                {{ else }}
+                  <p>Onbekend</p>
+                {{ end }}
+              {{ end }}
+          </div>
+        </div>
+
+        <div class="card card-block">
+          <h4 class="card-title">Data</h4>
+          <div class="card-text">
+            {{ if (not (isset .Params "start")) | or (eq .Params.start "") }}
+              <p class="start-date"><i class="fa fa-calendar"></i> Start: onbekend</p>
+            {{ else }}
+              <p class="start-date"><i class="fa fa-calendar"></i> Start: {{ dateFormat "01-02-2006" .Params.start }}</p>
+            {{ end }}
+
+            {{ if (not (isset .Params "einde")) | or (eq .Params.einde "") }}
+              <p class="end-date"><i class="fa fa-calendar"></i> Einde: onbekend</p>
+            {{ else }}
+              <p class="end-date"><i class="fa fa-calendar"></i> Einde: {{ dateFormat "01-02-2006" .Params.einde }}</p>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+{{ partial "foot" . }}

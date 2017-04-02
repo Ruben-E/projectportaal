@@ -5,22 +5,18 @@ weight = 3
 werknemers = ["Ruben Ernst", "Tweede persoon"]
 technologieen = ["Scala", "Akka", "CQRS"]
 klanten = ["Test"]
+start = "2017-03-01"
+einde = ""
 +++
+
+{{% omschrijving %}}
+
+Test
+
+{{% /omschrijving %}}
 
 {{% doelstellingen %}}
 
 Test
 
 {{% /doelstellingen %}}
-
-# Toegevoegde waarde
-
-Test
-
-# Resultaten
-
-Test
-
-# Doelstellingen
-
-Test

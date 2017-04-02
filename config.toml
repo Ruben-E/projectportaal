@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Projecten"
 baseURL = "http://example.org/"
 theme = "hugo-bootstrap"
 
@@ -7,3 +7,17 @@ theme = "hugo-bootstrap"
     werknemer = "werknemers"
     technologie = "technologieen"
     klant = "klanten"
+
+[[menu.main]]
+    name = "projecten"
+    weight = -110
+    identifier = "projecten"
+    url = "/"
+[[menu.main]]
+    name = "klanten"
+    weight = -100
+    url = "/klanten/"
+[[menu.main]]
+    name = "collega's"
+    weight = -90
+    url = "/werknemers/"

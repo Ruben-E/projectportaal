@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Projecten"
-baseURL = "http://example.org/"
+baseURL = "https://ruben-e.github.io/projectportaal/"
 theme = "hugo-bootstrap"
 
 [taxonomies]

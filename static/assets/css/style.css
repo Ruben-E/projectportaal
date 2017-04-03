@@ -33,6 +33,10 @@ h3 {
     padding-left: 0px;
 }
 
+.term-list {
+    margin-bottom: 0px;
+}
+
 .term-list li {
     text-transform: capitalize;
 }

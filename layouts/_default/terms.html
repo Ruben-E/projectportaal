@@ -3,8 +3,8 @@
 <div class="container p-a-0">
   <div class="row m-l-0 m-r-0">
     <div class="col-xs-12 col-md-12 post-container">
+      <h1>{{ if .IsPage }}{{ if .Draft }}{{ .Site.Data.Strings.draft }} :: {{ end }}{{ end }}{{ .Title }}</h1>
       <div class="card card-block">
-          <h1 class="card-title">{{ if .IsPage }}{{ if .Draft }}{{ .Site.Data.Strings.draft }} :: {{ end }}{{ end }}{{ .Title }}</h1>
           <div class="card-text">
               <ul class="term-list">
               {{ $baseurl := .Site.BaseURL }}

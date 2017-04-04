@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projecten</title>
+    <link>https://ruben-e.github.io/projectportaal/index.xml</link>
+    <description>Recent content on Projecten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2017 07:21:25 +0100</lastBuildDate>
+    <atom:link href="https://ruben-e.github.io/projectportaal/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test application</title>
+      <link>https://ruben-e.github.io/projectportaal/project/360-degree-application-view/</link>
+      <pubDate>Thu, 23 Mar 2017 07:21:25 +0100</pubDate>
+      
+      <guid>https://ruben-e.github.io/projectportaal/project/360-degree-application-view/</guid>
+      <description>&lt;div class=&#34;col-md-4&#34;&gt;
+&lt;h2 id=&#34;teamdoelstelling&#34;&gt;Teamdoelstelling&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sem leo, tempor ut mollis ut, venenatis sit amet tortor. Ut ullamcorper, est quis tincidunt egestas, turpis neque mollis risus, non consequat sapien augue a tellus. Morbi id neque vel orci condimentum consectetur.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-4&#34;&gt;
+&lt;h2 id=&#34;toegevoegde-waarde&#34;&gt;Toegevoegde waarde&lt;/h2&gt;
+
+&lt;p&gt;Integer malesuada dapibus lectus, id imperdiet risus accumsan ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquam dictum justo id mattis. Duis ut condimentum ante.&lt;/p&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-4&#34;&gt;
+&lt;h2 id=&#34;open-technologie&#34;&gt;Open technologie&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Scala&lt;/li&gt;
+&lt;li&gt;Akka&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;div class=&#34;col-md-4&#34;&gt;
+&lt;h2 id=&#34;resultaten&#34;&gt;Resultaten&lt;/h2&gt;
+
+&lt;p&gt;Fusce non mauris facilisis, mattis ligula vel, tincidunt nunc. Duis mollis, leo vel gravida tincidunt, odio ante condimentum mauris, eget vestibulum dolor eros sed nibh.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&#34;col-md-4&#34;&gt;
+&lt;h2 id=&#34;doelstellingen&#34;&gt;Doelstellingen&lt;/h2&gt;
+
+&lt;p&gt;Praesent porta leo a lorem tempus ultrices. Nam egestas accumsan accumsan. Integer faucibus tellus vitae purus faucibus, eu lacinia libero tincidunt.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&#34;col-md-4&#34;&gt;
+&lt;h2 id=&#34;bedrijfstechnologie&#34;&gt;Bedrijfstechnologie&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cloud&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&#34;col-md-4&#34;&gt;
+&lt;h2 id=&#34;uitdaging&#34;&gt;Uitdaging&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Complexiteit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&#34;col-md-4&#34;&gt;
+&lt;h2 id=&#34;opmerkingen&#34;&gt;Opmerkingen&lt;/h2&gt;
+
+&lt;p&gt;Geen&lt;/p&gt;
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://ruben-e.github.io/projectportaal/project/test/</link>
+      <pubDate>Fri, 24 Mar 2017 13:03:58 +0100</pubDate>
+      
+      <guid>https://ruben-e.github.io/projectportaal/project/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

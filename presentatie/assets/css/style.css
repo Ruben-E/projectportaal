@@ -1,0 +1,50 @@
+.card {
+    border-width: 1px;
+    border-radius: .25rem;
+}
+
+.card a {
+    color: inherit;
+}
+
+nav.navbar {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.container.p-a-0 {
+    margin-top: 30px;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-size: 1.2rem;
+}
+
+h3 {
+    font-size: 1.1rem;
+}
+
+.werknemers, .klanten, .term-list {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.term-list {
+    margin-bottom: 0px;
+}
+
+.term-list li {
+    text-transform: capitalize;
+}
+
+.copyright {
+    margin-bottom: 0px;
+}
+
+.start-date {
+    margin-bottom: 0px;
+}

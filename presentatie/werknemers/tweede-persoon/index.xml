@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tweede Persoon on Projecten</title>
-    <link>https://ruben-e.github.io/projectportaal/werknemers/tweede-persoon/index.xml</link>
+    <link>https://ruben-e.github.io/projectportaal/presentatie/werknemers/tweede-persoon/index.xml</link>
     <description>Recent content in Tweede Persoon on Projecten</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://ruben-e.github.io/projectportaal/werknemers/tweede-persoon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ruben-e.github.io/projectportaal/presentatie/werknemers/tweede-persoon/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Test application</title>
-      <link>https://ruben-e.github.io/projectportaal/project/360-degree-application-view/</link>
+      <link>https://ruben-e.github.io/projectportaal/presentatie/project/360-degree-application-view/</link>
       <pubDate>Thu, 23 Mar 2017 07:21:25 +0100</pubDate>
       
-      <guid>https://ruben-e.github.io/projectportaal/project/360-degree-application-view/</guid>
+      <guid>https://ruben-e.github.io/projectportaal/presentatie/project/360-degree-application-view/</guid>
       <description>&lt;div class=&#34;col-md-4&#34;&gt;
 &lt;h2 id=&#34;teamdoelstelling&#34;&gt;Teamdoelstelling&lt;/h2&gt;
 

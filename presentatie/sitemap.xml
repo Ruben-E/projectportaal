@@ -2,81 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ruben-e.github.io/projectportaal/project/360-degree-application-view/</loc>
+    <loc>https://ruben-e.github.io/projectportaal/presentatie/project/360-degree-application-view/</loc>
     <lastmod>2017-03-23T07:21:25+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ruben-e.github.io/projectportaal/project/test/</loc>
+    <loc>https://ruben-e.github.io/projectportaal/presentatie/project/test/</loc>
     <lastmod>2017-03-24T13:03:58+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ruben-e.github.io/projectportaal/technologieen/akka/</loc>
+    <loc>https://ruben-e.github.io/projectportaal/presentatie/technologieen/akka/</loc>
     <lastmod>2017-03-23T07:21:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ruben-e.github.io/projectportaal/technologieen/cqrs/</loc>
+    <loc>https://ruben-e.github.io/projectportaal/presentatie/technologieen/cqrs/</loc>
     <lastmod>2017-03-23T07:21:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ruben-e.github.io/projectportaal/klanten/ing/</loc>
-    <lastmod>2017-03-24T13:03:58+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ruben-e.github.io/projectportaal/klanten/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ruben-e.github.io/projectportaal/</loc>
-    <lastmod>2017-03-23T07:21:25+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ruben-e.github.io/projectportaal/project/</loc>
+    <loc>https://ruben-e.github.io/projectportaal/presentatie/klanten/ing/</loc>
     <lastmod>2017-03-24T13:03:58+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ruben-e.github.io/projectportaal/werknemers/ruben-ernst/</loc>
+    <loc>https://ruben-e.github.io/projectportaal/presentatie/klanten/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ruben-e.github.io/projectportaal/presentatie/</loc>
     <lastmod>2017-03-23T07:21:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ruben-e.github.io/projectportaal/technologieen/scala/</loc>
+    <loc>https://ruben-e.github.io/projectportaal/presentatie/project/</loc>
+    <lastmod>2017-03-24T13:03:58+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ruben-e.github.io/projectportaal/presentatie/werknemers/ruben-ernst/</loc>
     <lastmod>2017-03-23T07:21:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ruben-e.github.io/projectportaal/technologieen/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ruben-e.github.io/projectportaal/klanten/test/</loc>
+    <loc>https://ruben-e.github.io/projectportaal/presentatie/technologieen/scala/</loc>
     <lastmod>2017-03-23T07:21:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ruben-e.github.io/projectportaal/werknemers/tweede-persoon/</loc>
+    <loc>https://ruben-e.github.io/projectportaal/presentatie/technologieen/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ruben-e.github.io/projectportaal/presentatie/klanten/test/</loc>
     <lastmod>2017-03-23T07:21:25+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ruben-e.github.io/projectportaal/werknemers/</loc>
+    <loc>https://ruben-e.github.io/projectportaal/presentatie/werknemers/tweede-persoon/</loc>
+    <lastmod>2017-03-23T07:21:25+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ruben-e.github.io/projectportaal/presentatie/werknemers/</loc>
     <priority>0</priority>
   </url>
   

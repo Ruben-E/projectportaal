@@ -1,0 +1,27 @@
+<textarea id="source">
+{{ range .Data.Pages.ByTitle }}
+class: center, top
+<div class="row">
+    <div class="col-md-12 title">
+        <h1>{{ .Title }}</h1>
+    </div>
+    <div class="col-md-4">
+        <h2>Teamleden</h2>
+        {{ if isset .Params "werknemers" }}
+            {{ $werknemersLen := len .Params.werknemers }}
+            {{ if gt $werknemersLen 0 }}
+            <ul class="teamleden">
+                {{ range $k, $v := .Params.werknemers }}
+                <li>{{ . }}</li>
+                {{ end }}
+            </ul>
+            {{ else }}
+            <p>Onbekend</p>
+            {{ end }}
+        {{ end }}
+    </div>
+    {{ .Content}}
+</div>
+---
+{{ end }}
+</textarea>

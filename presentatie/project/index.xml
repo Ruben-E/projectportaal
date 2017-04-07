@@ -19,7 +19,7 @@
     </item>
     
     <item>
-      <title>Test application</title>
+      <title>Test project</title>
       <link>https://ruben-e.github.io/projectportaal/presentatie/project/360-degree-application-view/</link>
       <pubDate>Thu, 23 Mar 2017 07:21:25 +0100</pubDate>
       
@@ -39,37 +39,27 @@
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;col-md-4&#34;&gt;
-&lt;h2 id=&#34;open-technologie&#34;&gt;Open technologie&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Scala&lt;/li&gt;
-&lt;li&gt;Akka&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/div&gt;&lt;/p&gt;
-
-&lt;div class=&#34;col-md-4&#34;&gt;
 &lt;h2 id=&#34;resultaten&#34;&gt;Resultaten&lt;/h2&gt;
 
 &lt;p&gt;Fusce non mauris facilisis, mattis ligula vel, tincidunt nunc. Duis mollis, leo vel gravida tincidunt, odio ante condimentum mauris, eget vestibulum dolor eros sed nibh.&lt;/p&gt;
 
-&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
 
-&lt;div class=&#34;col-md-4&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;col-md-4&#34;&gt;
 &lt;h2 id=&#34;doelstellingen&#34;&gt;Doelstellingen&lt;/h2&gt;
 
 &lt;p&gt;Praesent porta leo a lorem tempus ultrices. Nam egestas accumsan accumsan. Integer faucibus tellus vitae purus faucibus, eu lacinia libero tincidunt.&lt;/p&gt;
 
-&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
 
-&lt;div class=&#34;col-md-4&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;col-md-4&#34;&gt;
 &lt;h2 id=&#34;bedrijfstechnologie&#34;&gt;Bedrijfstechnologie&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Cloud&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
 
 &lt;div class=&#34;col-md-4&#34;&gt;
 &lt;h2 id=&#34;uitdaging&#34;&gt;Uitdaging&lt;/h2&gt;

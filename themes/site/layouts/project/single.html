@@ -47,6 +47,24 @@
         </div>
 
         <div class="card card-block">
+          <h4 class="card-title">Technologieën</h4>
+          <div class="card-text">
+            {{ if isset .Params "technologieen" }}
+                {{ $technologieenLen := len .Params.technologieen }}
+                {{ if gt $technologieenLen 0 }}
+                  <ul class="technologieen">
+                    {{ range $k, $v := .Params.technologieen }}
+                    <li><a class="project-technologieen-link" href="{{ $.Site.BaseURL }}technologieen/{{ . | urlize | lower }}"><i class="fa fa-code"></i> {{ . }}</a></li>
+                    {{ end }}
+                  </ul>
+                {{ else }}
+                  <p>Onbekend</p>
+                {{ end }}
+              {{ end }}
+          </div>
+        </div>
+
+        <div class="card card-block">
           <h4 class="card-title">Data</h4>
           <div class="card-text">
             {{ if (not (isset .Params "start")) | or (eq .Params.start "") }}

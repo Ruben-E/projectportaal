@@ -21,6 +21,26 @@ class: center, top
         {{ end }}
     </div>
     {{ .Content}}
+    
+<!-- Sorry for the indentation. With indentation Remark will transform it into a code block :( -->
+<div class="col-md-4">
+<h2>Technologie</h2>
+{{ if isset .Params "technologieen" }}
+{{ $technologieenLen := len .Params.technologieen }}
+{{ if gt $technologieenLen 0 }}
+<ul class="technologieen">
+{{ range $k, $v := .Params.technologieen }}
+<li>{{ . }}</li>
+{{ end }}
+</ul>
+{{ else }}
+<p>Onbekend</p>
+{{ end }}
+{{ end }}
+</div>
+
+
+
 </div>
 ---
 {{ end }}

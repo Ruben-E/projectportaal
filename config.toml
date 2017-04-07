@@ -18,6 +18,10 @@ theme = "site"
     weight = -100
     url = "/klanten/"
 [[menu.main]]
-    name = "collega's"
+    name = "technologieën"
     weight = -90
+    url = "/technologieen/"
+[[menu.main]]
+    name = "collega's"
+    weight = -80
     url = "/werknemers/"

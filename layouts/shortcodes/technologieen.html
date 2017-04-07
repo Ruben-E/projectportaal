@@ -1,0 +1,12 @@
+{{ if isset .Page.Params "technologieen" }}
+{{ $technologieenLen := len .Page.Params.technologieen }}
+{{ if gt $technologieenLen 0 }}
+<ul class="technologieen">
+{{ range $k, $v := .Page.Params.technologieen }}
+<li><a class="project-technologieen-link" href="{{ $.Site.BaseURL }}technologieen/{{ . | urlize | lower }}"><i class="fa fa-building"></i> {{ . }}</a></li>
+{{ end }}
+</ul>
+{{ else }}
+<p>Onbekend</p>
+{{ end }}
+{{ end }}

@@ -28,7 +28,7 @@ h3 {
     font-size: 1.1rem;
 }
 
-.werknemers, .klanten, .term-list {
+.werknemers, .klanten, .term-list, .technologieen {
     list-style: none;
     padding-left: 0px;
 }
@@ -47,4 +47,8 @@ h3 {
 
 .start-date {
     margin-bottom: 0px;
+}
+
+.block {
+    margin-bottom: 40px;
 }
